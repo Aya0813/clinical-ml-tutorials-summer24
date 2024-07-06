@@ -47,10 +47,6 @@ During the policy camp, you will be discussing cases in a small group, trying to
 ## Location
 The datathon will take place at the Auditorium at Balgrist University Hospital, located at Forchstrasse 340, 8008 Zürich.
 
-## Materials (Online)
-* **BOLD dataset** - Please download the data ("BOLD_training_v1.csv") from here, place it under the "data" folder, and run Notebook 0 to create the train and test subsets with the modified features - before the tutorial!!
-* **Data Dictionary** - To understand what the variables mean.
-
 ## Note
 A lot of the content in this tutorial was inspired by these previous datathons: MIT Critical Datathon 2023 and Brown University Datathon 2024.
 
