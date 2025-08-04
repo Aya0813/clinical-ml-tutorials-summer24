@@ -22,9 +22,16 @@ This repository documents two workshops I led in July 2024 at Zurich, Switzerlan
 - **Format**: This was a nearly full-day datathon organized in collaboration with some Bumblekite ML summer school organizers and several members of [MIT Critical Data](https://criticaldata.mit.edu/#community) as part of one of the many global datathons led by Prof. Leo Anthony Celi. I was one of the datathon organizers and also took part in the opening remarks. During the datathon, I led a 2-hour hands-on workshop, which was a condensed and simplified version of the Bumblekite tutorial, tailored for an audience with limited to no prior experience in Python or ML.
 - **Materials**: [Balgrist-Datathon/](./Balgrist-Datathon)
 
+
+## 📊 Data used
+The primary dataset used was the BOLD (Blood-Gas and Oximetry Linked Dataset), a harmonized dataset integrating ICU records from MIMIC-III, MIMIC-IV, and eICU-CRD. Access to the BOLD dataset required participants to complete data use training and receive approval through a formal data access process.
+
+- Dataset [Paper](https://www.nature.com/articles/s41597-024-03225-z#Sec23)
+- Dataset [Access](https://physionet.org/content/blood-gas-oximetry/1.0/) from PhysioNet.  
+
 ## 🩺 Tutorial Content Overview
 - Investigated the prevalence and clinical impact of hidden hypoxemia across racial groups using large-scale EHR data.
-- Preprocessed the [BOLD](https://www.nature.com/articles/s41597-024-03225-z#Sec23) dataset, composed of approximately 50,000 ICU patient records from MIMIC-III, MIMIC-IV, and eICU-CRD databases.
+- Preprocessed the BOLD dataset, composed of approximately 50,000 ICU patient records from MIMIC-III, MIMIC-IV, and eICU-CRD databases.
 - Developed and evaluated Machine Learning models to quantify bias in pulse oximetry-based oxygen saturation measurements and their effect on mortality prediction.
 - Conducted group-wise performance analysis and implemented fairness-aware evaluation metrics to assess model behavior across demographic subgroups.
 
