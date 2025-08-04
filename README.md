@@ -10,7 +10,7 @@ This repository documents two workshops I led in July 2024 at Zurich, Switzerlan
 ### 1. Bumblekite Machine Learning Summer School in Health, Care, and Biosciences
 - **Location**: ETH Zurich
 - **Date**: July 2nd, 2024 (as part of the summer school held from June 30th to July 6th, 2024).
-- **Website**: bumblekite.co/summer-school-24
+- **Website**: [Bumblekite Summer School 2024](https://www.bumblekite.co/summer-school-24/#schedule)
 - **Audience**: 60+ participants, primarily graduate students from diverse academic and professional backgrounds, including Machine Learning (ML), statistics, mathematics, and biology, representing both academia and industry.
 - **Format**: I led the hands-on tutorial session on the first day of the summer school, which lasted 3 hours+. The summer school itself featured daily lecture series and applied tutorials (see official schedule in the website). My tutorial was delivered under the guidance and in the presence of [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo) (Senior Research Scientist (MIT); Associate Professor of Medicine (Harvard)). 
 - **Materials**: [ETH-Zurich-Tutorial/](./ETH-Zurich-Tutorial)
@@ -20,7 +20,7 @@ This repository documents two workshops I led in July 2024 at Zurich, Switzerlan
 - **Date**: July 6th, 2024
 - **Audience**: Open to the public, with a total attendance of around 60 participants, including seasoned professionals and students from across Europe and beyond. Many attendees had advanced backgrounds in biology, clinical medicine, or pharmacy, with a mix of career stages and expertise levels. Participants were distributed into smaller working groups, and I directly taught a group of around 10–15 people during the workshop, while also supporting other groups as needed in my role as one of the organizers. 
 - **Format**: This was a nearly full-day datathon organized in collaboration with some Bumblekite ML summer school organizers and several members of [MIT Critical Data](https://criticaldata.mit.edu/#community) as part of one of the many global datathons led by Prof. Leo Anthony Celi. I was one of the datathon organizers and also took part in the opening remarks. During the datathon, I led a 2-hour hands-on workshop, which was a condensed and simplified version of the Bumblekite tutorial, tailored for an audience with limited to no prior experience in Python or ML.
-- **Materials**: For full event details and workshop resources, see: [Balgrist-Datathon/](./Balgrist-Datathon)
+- **Materials**: [Balgrist-Datathon/](./Balgrist-Datathon)
 
 ## 🩺 Tutorial Content Overview
 - Investigated the prevalence and clinical impact of hidden hypoxemia across racial groups using large-scale EHR data.
