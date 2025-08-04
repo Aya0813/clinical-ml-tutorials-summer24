@@ -13,6 +13,9 @@ To ensure accessibility and ease of sharing across a diverse audience with varyi
 ## 📂 Folder Contents
 
 - 📔 `notebooks/` – Colab Jupyter Notebook
+-  HAVE the participant version and FINAL version
+
+
 - 🛝 `slides/` – Tutorial presentation slides
  
 
