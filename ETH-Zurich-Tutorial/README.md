@@ -12,8 +12,9 @@ To ensure accessibility and ease of sharing across a diverse audience with varyi
 
 ## 📂 Folder Contents
 
-- `notebooks/` – Colab Jupyter Notebook
-- `slides/` – Tutorial presentation slides
+- 📔 `notebooks/` – Colab Jupyter Notebook
+- 🛝 `slides/` – Tutorial presentation slides
+ 
 
 ## 📎 Related Links
 
