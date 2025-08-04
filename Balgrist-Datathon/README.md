@@ -32,10 +32,9 @@ The objective of this tutorial is to provide a comprehensive guide on how to ana
 * **Hour 2** - Build a mortality prediction model using the BOLD dataset.
 
 ## Programme
-**09:00 - 09:15** Opening Remarks by Sebastiano Caprara (15 min)
+**09:00 - 09:15** Opening Remarks by [Sebastiano Caprara](https://www.linkedin.com/in/sebastianocaprara/) (15 min)
 
-**09:15 - 11:30** Hands-on workshop on discovering data biases in clinical data by Aya El Mir
-During the workshop, you will be working on the BOLD dataset.
+**09:15 - 11:30** Hands-on workshop on discovering data biases in clinical data by Aya El Mir. During the workshop, you will be working on the BOLD dataset.
 
 **11:30 - 12:30** Visit to OR-X and lunch break
 
