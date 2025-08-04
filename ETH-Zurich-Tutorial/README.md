@@ -14,10 +14,8 @@ To ensure accessibility and ease of sharing across a diverse audience with varyi
 
 - `notebooks/` – Colab Jupyter Notebook
 - `slides/` – Tutorial presentation slides
-- `data/` – (Optional) Sample data or instructions for accessing BOLD
 
 ## 📎 Related Links
 
-- [Main Repository README](../README.md)
 - [Bumblekite Summer School 2024](https://www.bumblekite.co/summer-school-24)
-- [Prof. Leo Anthony Celi](https://imes.mit.edu/people/celi-leo)
+- [MIT Critical Data](https://criticaldata.mit.edu/#community)
