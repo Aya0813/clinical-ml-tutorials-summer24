@@ -14,6 +14,7 @@ To ensure accessibility and ease of sharing across a diverse audience with varyi
 
 - 📔 `notebooks/` – Colab Jupyter Notebook
 -  HAVE the participant version and FINAL version
+-  HAVE The pandas profiling report as well - and ask GPT where does it fit best 
 
 
 - 🛝 `slides/` – Tutorial presentation slides
