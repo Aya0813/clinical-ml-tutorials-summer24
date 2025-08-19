@@ -1,5 +1,10 @@
 # Welcome to the Balgrist-University-Hospital-Datathon-2024!
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18jywvNC4juXoM1Ueraazf-igGzICwQBZ
+)
+
+
 ## Understanding the Problem
 Pulse oximeters are medical devices used to measure the level of oxygen in the blood without needing a blood sample. The most accurate method, however, requires taking a blood sample to measure oxygen levels directly. Pulse oximeters currently available are less accurate in people with darker skin tones. These pulse oximetry inaccuracies can fail to detect episodes of hidden hypoxemia, i.e., low SaO2 with high SpO2. Hidden hypoxemias can result in less treatment and increased mortality. Yet flawed, pulse oximeters remain ubiquitously used because of their ease of use; debiasing the underlying algorithms could alleviate the downstream repercussions of hidden hypoxemia.
 
