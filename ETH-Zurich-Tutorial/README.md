@@ -1,6 +1,6 @@
 # ETH Zurich Tutorial: Bumblekite Summer School 2024
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18jywvNC4juXoM1Ueraazf-igGzICwQBZ])
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18jywvNC4juXoM1Ueraazf-igGzICwQBZ)
 
 
 This folder contains the materials for the hands-on tutorial delivered on July 3rd, 2024, as part of the Bumblekite Machine Learning Summer School in Health, Care, and Biosciences held at ETH Zurich.
