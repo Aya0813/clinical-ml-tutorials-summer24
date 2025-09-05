@@ -1,5 +1,8 @@
 # ETH Zurich Tutorial: Bumblekite Summer School 2024
 
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18jywvNC4juXoM1Ueraazf-igGzICwQBZ])
+
+
 This folder contains the materials for the hands-on tutorial delivered on July 3rd, 2024, as part of the Bumblekite Machine Learning Summer School in Health, Care, and Biosciences held at ETH Zurich.
 
 ## 🧑‍🏫 Overview
@@ -13,11 +16,7 @@ To ensure accessibility and ease of sharing across a diverse audience with varyi
 ## 📂 Folder Contents
 
 - 📔 `notebooks/` – Colab Jupyter Notebook
--  HAVE the participant version and FINAL version
--  HAVE The pandas profiling report as well - and ask GPT where does it fit best 
-
-
-- 🛝 `slides/` – Tutorial presentation slides
+- 🛝 `Bumblekite_2024_slides.pdf` – Tutorial presentation slides
  
 
 ## 📎 Related Links
